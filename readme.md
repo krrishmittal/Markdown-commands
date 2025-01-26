@@ -30,8 +30,7 @@
 
     **_Krrish_**
 
-7. For providing links use "[name]"(link)" and if we have to provide hovering text then in the link section add "name"
-there
+7. For providing links use "[name]"(link)" and if we have to provide hovering text then in the link section add "name" there "[name]"(link"google")"
 
     [Google](https://www.google.com/) 
     [Google](https://www.google.com/ "Google")
