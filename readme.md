@@ -37,7 +37,8 @@ there
     [Google](https://www.google.com/ "Google")
 
 8. For adding images use ![Alter Text]"(link)
-![Alter Text](https://t4.ftcdn.net/jpg/07/25/10/19/240_F_725101967_ms4wGaTlE6FmRoMeWBP2Bz25qjO7icab.jpg)
+
+    ![Alter Text](https://t4.ftcdn.net/jpg/07/25/10/19/240_F_725101967_ms4wGaTlE6FmRoMeWBP2Bz25qjO7icab.jpg)
 
 9. For creating Tables use |data|data|data|
 and under this use 
